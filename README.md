@@ -3,7 +3,7 @@
  👀 I’m interested in Web development
  🌱 I’m currently learning Javascript but really like to learn Typescript asap
  💞️ I’m looking to collaborate on web development, Desktop app and Extensions which is use JS and TS
- 📫 How to reach me mahan.az@hotmail.com
+ 📫 How to reach me javad.az@hotmail.com
 
 
 ## 🌐Socials
