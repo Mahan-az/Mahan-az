@@ -12,8 +12,6 @@
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mahan-az&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahan-az&icon=8&color=8)](https://visitcount.itsvg.in)
